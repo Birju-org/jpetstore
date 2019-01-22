@@ -1,5 +1,5 @@
 spring-jpetstore
-================
+=================
 
 JPetStore 6 is a full web application built on top of Spring, Spring MVC, MyBatis 3, and Spring Security. 
 This is another implementation of MyBatis sample application (https://github.com/mybatis/jpetstore-6).
